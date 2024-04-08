@@ -1,9 +1,5 @@
 ## Crop-Connect: Empowering Farmers Through Digitalization
 
-You can download the latest version of the Crop-Connect app APK file here:
-
-[Download Crop-Connect APK]("C:\Users\bhanu\crop_connect\helloworld\build\app\outputs\flutter-apk\app-release.apk")
-
  Crop-Connect is a mobile application aimed at revolutionizing the agricultural industry by providing farmers with innovative digital solutions.
  
  # User Authentication: 
