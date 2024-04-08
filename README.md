@@ -1,7 +1,8 @@
 ## Crop-Connect: Empowering Farmers Through Digitalization
 
  Crop-Connect is a mobile application aimed at revolutionizing the agricultural industry by providing farmers with innovative digital solutions.
- 
+
+ [Download the Crop-Connect APK here](https://drive.google.com/file/d/182yn9uGbmsYrAjJg0Qf93DSPvhlYJ2ji/view?usp=drive_link)
  # User Authentication: 
 Firebase Authentication
 
