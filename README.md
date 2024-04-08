@@ -1,6 +1,6 @@
 # Crop-Connect: Empowering Farmers Through Digitalization
 
-<img src="https://github.com/Bhanu0301/Crop-Connect/assets/106879319/eedd2a1d-f8d5-42fb-a058-7f02de27543f" width="500">    User Authentication: Firebase Authentication
+<img src="https://github.com/Bhanu0301/Crop-Connect/assets/106879319/eedd2a1d-f8d5-42fb-a058-7f02de27543f" width="500"> <br> User Authentication: Firebase Authentication
 
 <img src="https://github.com/Bhanu0301/Crop-Connect/assets/106879319/3a210448-b669-422b-9a9c-1caec2f59e8f" width="500">    Home page: Feed, navigation, translation features
 
